@@ -2,6 +2,16 @@
 .media-icons{
 	display:flex;
 }
+.top{
+	display:flex;
+	justify-content:space-between;
+
+}
 .link-boxes{
 	display:flex;
+	justify-content:space-between;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
 }
